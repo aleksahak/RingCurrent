@@ -1,18 +1,18 @@
 RingCurrent is a utility code provided in both R and Fortran95+ languages to calculate the ring current geometric parameters (Pople and Haigh-Mallion) at the point specified near a conjugated ring, by supplying the Cartesian coordinates of both the query point and the positions of the ring (5- or 6-membered) atoms.
 
-Please cite the following paper, while using the code:
+Please cite the following paper when using the code:
 
 Sahakyan A.B. and Vendruscolo M. “Analysis of Ring Current and Electric Field Effects on the Chemical Shifts of RNA Bases”, J. Phys. Chem. B, 117, 1989-1998, 2013.
 http://dx.doi.org/10.1021/jp3057306
 
-################################################################################
-# Copyright (C) 2009+ Aleksandr B. Sahakyan (aleksahak[at]cantab.net).         #
-#                                                                              #
-# License: You may redistribute this source code (or its components) and/or    #
-#   modify/translate it under the terms of the GNU General Public License      #
-#   as published by the Free Software Foundation; version 2 of the License     #
-#   (GPL2). You can find the details of GPL2 in the following link:            #
-#   https://www.gnu.org/licenses/gpl-2.0.html                                  #
-################################################################################
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Copyright (C) 2009+ Aleksandr B. Sahakyan (aleksahak[at]cantab.net).        #
+#                                                                             #
+# License: You may redistribute this source code (or its components) and/or   #
+#   modify/translate it under the terms of the GNU General Public License     #
+#   as published by the Free Software Foundation; version 2 of the License    #
+#   (GPL2). You can find the details of GPL2 in the following link:           #
+#   https://www.gnu.org/licenses/gpl-2.0.html                                 #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 
 
