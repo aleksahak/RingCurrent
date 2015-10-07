@@ -149,7 +149,7 @@ RingCurrent<-function(query.xyz, xyz1, xyz2, xyz3, xyz4, xyz5, xyz6=NULL){
 
   #######################################################################
   # Calculating the geometrical factor for ring current effects,
-  # according to the Haigh-Mellion model.
+  # according to the Haigh-Mallion model.
 
   polygon <- list(NULL)
   # defining the sequential polygon vertices
